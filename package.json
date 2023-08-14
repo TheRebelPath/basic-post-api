@@ -1,0 +1,11 @@
+{
+  "name": "fetch-api-post",
+  "version": "1.0.0",
+  "description": "test server",
+  "main": "scripts/script.js",
+  "scripts": {
+    "json:server": "json-server --watch backend/db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
